@@ -57,6 +57,7 @@ section h3 {
   color: #1a237e;
 }
 
+/* Styles for participant section */
 .activity-card {
   margin-bottom: 15px;
   /* Removed padding, border, border-radius, and background-color */
